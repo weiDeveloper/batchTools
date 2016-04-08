@@ -1,13 +1,13 @@
 @echo off
 title=WinTools
-color=3f
+color 3f
 REM 湖蓝色背景，白色字
 
 :mainPage
 cls
 echo 欢迎使用WinTools_V0.1
-echo 
-echo
+echo.
+echo.
 echo 1.测试网络连接情况
 echo 2.显示系统信息
 echo 3.帮助
